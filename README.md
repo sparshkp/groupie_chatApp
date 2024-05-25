@@ -1,16 +1,18 @@
 # groupie_chat_app
 
-A new Flutter project.
+A Multi-Screen group chat application made using Flutter and Firebase that can also run on the web.
 
-## Getting Started
+## App Screens
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-05-25 at 12 53 47_1c1ac92d](https://github.com/sparshkp/groupie_chatApp/assets/89588746/813236ac-60da-436c-8f36-0cb2038046d5)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2024-05-25 at 12 53 47_5348eb82](https://github.com/sparshkp/groupie_chatApp/assets/89588746/18370ef2-82ce-447b-a721-45705ee8a505)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2024-05-25 at 12 53 47_84f8aefd](https://github.com/sparshkp/groupie_chatApp/assets/89588746/7800c62a-bb35-4c14-b300-e0768206dc51)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-05-25 at 12 53 46_e0b0439f](https://github.com/sparshkp/groupie_chatApp/assets/89588746/50136644-719f-45ea-9321-c4bada83f184)
+
+
+
+
+
